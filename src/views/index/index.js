@@ -6,7 +6,7 @@ import {
 
 class App extends React.Component {
     click() {
-        alert(222);
+        alert(333);
     }
     render() {
         return (
